@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="500"
+   viewBox="0 0 270.93333 132.29167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (3ce5693, 2018-03-11)"
+   sodipodi:docname="feature-graphic.svg"
+   inkscape:export-filename="/home/mark/feature-graphic.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="519.19363"
+     inkscape:cy="382.55654"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="1366"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70832)">
+    <image
+       sodipodi:absref="/home/mark/work/MPDBTech/Resources/csking/feature-graphic-background.png"
+       xlink:href="feature-graphic-background.png"
+       width="270.93335"
+       height="132.29167"
+       preserveAspectRatio="none"
+       id="image861"
+       x="0.026458334"
+       y="164.70831" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.70004338;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8842"
+       cx="62.771698"
+       cy="230.89166"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon_pro.png"
+       inkscape:export-xdpi="81.919991"
+       inkscape:export-ydpi="81.919991"
+       r="39.6875" />
+    <g
+       id="g968"
+       transform="matrix(0.61862683,0,0,0.56516403,-4.7779339,154.47763)"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon_pro.png"
+       inkscape:export-xdpi="81.919991"
+       inkscape:export-ydpi="81.919991">
+      <path
+         inkscape:export-ydpi="30.719997"
+         inkscape:export-xdpi="30.719997"
+         inkscape:export-filename="/home/mark/work/tmp/ic_launcher_xxxh.png"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path834"
+         d="m 85.978541,177.58631 -19.450407,-73.79064 28.93122,43.27877 13.126336,-47.369442 13.39762,46.912562 27.13675,-43.74017 -18.03183,74.27601 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57174605px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="30.719997"
+         inkscape:export-xdpi="30.719997"
+         inkscape:export-filename="/home/mark/work/tmp/ic_launcher_xxxh.png"
+         transform="rotate(24.114474)"
+         r="6.6145835"
+         cy="68.2089"
+         cx="103.97681"
+         id="path8844"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16673899;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="30.719997"
+         inkscape:export-xdpi="30.719997"
+         inkscape:export-filename="/home/mark/work/tmp/ic_launcher_xxxh.png"
+         transform="rotate(24.114474)"
+         r="6.6145835"
+         cy="44.892433"
+         cx="139.06967"
+         id="path8844-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16673899;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="30.719997"
+         inkscape:export-xdpi="30.719997"
+         inkscape:export-filename="/home/mark/work/tmp/ic_launcher_xxxh.png"
+         transform="rotate(24.114474)"
+         r="6.6145835"
+         cy="34.161419"
+         cx="177.30353"
+         id="path8844-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16673899;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
