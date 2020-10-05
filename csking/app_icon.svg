@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,34 +7,39 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
+   sodipodi:docname="app_icon.svg"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
    id="svg3961"
-   inkscape:version="0.92.3 (3ce5693, 2018-03-11)"
-   sodipodi:docname="app_icon.svg">
+   version="1.1"
+   viewBox="0 0 158.75002 158.75002"
+   height="158.75002mm"
+   width="158.75002mm">
   <defs
      id="defs3955" />
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="213.06835"
-     inkscape:cy="661.86508"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:pagecheckerboard="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
      inkscape:window-x="1366"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="1052"
+     inkscape:window-width="1920"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="465.18587"
+     inkscape:cx="105.37582"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata3958">
     <rdf:RDF>
@@ -45,1078 +48,1079 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     transform="translate(-28.493648,-52.03804)"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <g
-       id="g3236"
-       transform="translate(28.49365,46.079708)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        style="fill:#ffffff"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(28.49365,46.079708)"
+       id="g3236">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       width="26.458334"
+       y="52.03804"
+       x="54.951984"
+       height="26.458334"
        id="rect2276-6"
-       height="26.458334"
-       x="54.951984"
-       y="52.03804"
-       width="26.458334"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       y="52.03804"
+       x="80.351982"
+       height="26.458334"
+       width="1.0583333"
        id="rect3226-7"
-       width="1.0583333"
-       height="26.458334"
-       x="80.351982"
-       y="52.03804"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3231-5"
-       width="26.458334"
-       height="1.0583333"
-       x="54.951984"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        y="77.438042"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       x="54.951984"
+       height="1.0583333"
+       width="26.458334"
+       id="rect3231-5"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(81.410318,46.079708)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-35"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(81.410318,46.079708)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-62"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-1"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(107.86865,46.079708)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-2"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(107.86865,46.079708)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-7"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-0"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(134.32699,46.079708)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       style="fill:#000000"
        id="g3236-36"
-       style="fill:#000000"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(134.32699,46.079708)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-0"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-6"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-2"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(160.78532,46.079708)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-6"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(160.78532,46.079708)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-8"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-7"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       id="g3236-20"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        transform="translate(28.49365,72.538043)"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       id="g3236-20">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-2"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-3"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-75"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(54.951984,72.538043)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-3-9"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(54.951984,72.538043)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-6-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-7-2"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-5-8"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(81.410318,72.538043)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-35-9"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(81.410318,72.538043)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-62-7"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-9-3"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-1-6"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(107.86865,72.538043)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-2-1"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(107.86865,72.538043)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-7-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-0-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-9-3"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(134.32699,72.538043)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-36-1"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(134.32699,72.538043)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-0-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-6-4"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-2-7"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(160.78532,72.538043)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-6-8"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(160.78532,72.538043)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-1-4"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-8-5"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-7-0"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       id="g3236-61"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        transform="translate(28.49365,98.996378)"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       id="g3236-61">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-06"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-32"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-0"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(54.951984,98.996378)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-3-6"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(54.951984,98.996378)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-6-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-7-5"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-5-5"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(81.410318,98.996378)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-35-4"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(81.410318,98.996378)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-62-76"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-9-5"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-1-69"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(107.86865,98.996378)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-2-3"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(107.86865,98.996378)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-7-7"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-0-4"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-9-5"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(134.32699,98.996378)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-36-2"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(134.32699,98.996378)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-0-5"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-6-47"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-2-4"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(160.78532,98.996378)"
-       id="g3236-6-4"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        style="fill:#000000"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       id="g3236-6-4"
+       transform="translate(160.78532,98.996378)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-1-3"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-8-0"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-7-7"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       id="g3236-68"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        transform="translate(28.49365,125.45472)"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       id="g3236-68">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-8"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-4"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-3"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(54.951984,125.45472)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-3-1"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(54.951984,125.45472)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-6-4"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-7-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-5-2"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(81.410318,125.45472)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-35-0"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(81.410318,125.45472)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-62-6"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-9-8"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-1-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(107.86865,125.45472)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-2-2"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(107.86865,125.45472)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-7-6"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-0-6"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-9-4"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(134.32699,125.45472)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-36-9"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(134.32699,125.45472)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-0-50"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-6-48"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-2-71"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(160.78532,125.45472)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-6-7"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(160.78532,125.45472)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-1-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-8-7"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-7-2"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       id="g3236-610"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        transform="translate(28.493648,151.91305)"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       id="g3236-610">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-61"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-5"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-94"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(54.951982,151.91305)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-3-90"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(54.951982,151.91305)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-6-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-7-1"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-5-7"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(81.410316,151.91305)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-35-7"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(81.410316,151.91305)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-62-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-9-1"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-1-5"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(107.86865,151.91305)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-2-9"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(107.86865,151.91305)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-7-77"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-0-67"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-9-36"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(134.32699,151.91305)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-36-5"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(134.32699,151.91305)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-0-6"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-6-3"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-2-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       transform="translate(160.78532,151.91305)"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        id="g3236-6-48"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       transform="translate(160.78532,151.91305)">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-1-1"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-8-2"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-7-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <g
-       id="g3236-0"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        transform="translate(28.49365,178.37139)"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
+       id="g3236-0">
       <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2276-88"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
          height="26.458334"
-         width="1.0583333"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3226-50"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
       <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3231-96"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
     </g>
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       width="26.458334"
+       y="184.32973"
+       x="54.951984"
+       height="26.458334"
        id="rect2276-6-8"
-       height="26.458334"
-       x="54.951984"
-       y="184.32973"
-       width="26.458334"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3226-7-56"
-       width="1.0583333"
-       height="26.458334"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       y="184.32973"
        x="80.351982"
-       y="184.32973"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3231-5-1"
-       width="26.458334"
-       height="1.0583333"
-       x="54.951984"
-       y="209.72972"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
-    <g
-       transform="translate(81.410318,178.37139)"
-       id="g3236-35-1"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
-      <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
-         id="rect2276-62-5"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
-         height="26.458334"
-         width="1.0583333"
-         id="rect3226-9-9"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
-         id="rect3231-1-8"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(107.86865,178.37139)"
-       id="g3236-2-4"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
-      <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
-         id="rect2276-7-8"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
-         height="26.458334"
-         width="1.0583333"
-         id="rect3226-0-1"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
-         id="rect3231-9-0"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(134.32699,178.37139)"
-       id="g3236-36-3"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998">
-      <rect
-         width="26.458334"
-         y="5.9583325"
-         x="0"
-         height="26.458334"
-         id="rect2276-0-0"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="5.9583325"
-         x="25.4"
-         height="26.458334"
-         width="1.0583333"
-         id="rect3226-6-44"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="31.358334"
-         x="-4.4408921e-16"
-         height="1.0583333"
-         width="26.458334"
-         id="rect3231-2-44"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2276-1-31"
        height="26.458334"
-       x="160.78532"
-       y="184.32973"
-       width="26.458334"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3226-8-75"
        width="1.0583333"
-       height="26.458334"
-       x="186.18532"
-       y="184.32973"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       id="rect3226-7-56"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3231-7-96"
-       width="26.458334"
-       height="1.0583333"
-       x="160.78532"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        y="209.72972"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       x="54.951984"
+       height="1.0583333"
+       width="26.458334"
+       id="rect3231-5-1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="81.919998"
        inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       id="g3236-35-1"
+       transform="translate(81.410318,178.37139)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2276-62-5"
+         height="26.458334"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3226-9-9"
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3231-1-8"
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
+    </g>
+    <g
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       id="g3236-2-4"
+       transform="translate(107.86865,178.37139)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2276-7-8"
+         height="26.458334"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3226-0-1"
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3231-9-0"
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
+    </g>
+    <g
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       id="g3236-36-3"
+       transform="translate(134.32699,178.37139)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2276-0-0"
+         height="26.458334"
+         x="0"
+         y="5.9583325"
+         width="26.458334" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3226-6-44"
+         width="1.0583333"
+         height="26.458334"
+         x="25.4"
+         y="5.9583325" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3231-2-44"
+         width="26.458334"
+         height="1.0583333"
+         x="-4.4408921e-16"
+         y="31.358334" />
+    </g>
+    <rect
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       width="26.458334"
+       y="184.32973"
+       x="160.78532"
+       height="26.458334"
+       id="rect2276-1-31"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       y="184.32973"
+       x="186.18532"
+       height="26.458334"
+       width="1.0583333"
+       id="rect3226-8-75"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       y="209.72972"
+       x="160.78532"
+       height="1.0583333"
+       width="26.458334"
+       id="rect3231-7-96"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
-       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.16673899;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path8842"
-       cx="108.29652"
-       cy="131.00327"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        r="66.145836"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       cy="131.00327"
+       cx="108.29652"
+       id="path8842"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.16674;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57174605px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 85.978541,177.58631 -19.450407,-73.79064 28.93122,43.27877 13.126336,-47.369442 13.39762,46.912562 27.13675,-43.74017 -18.03183,74.27601 z"
-       id="path834"
-       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
        sodipodi:nodetypes="cccccccc"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       inkscape:connector-curvature="0"
+       id="path834"
+       d="m 85.978541,177.58631 -19.450407,-73.79064 28.93122,43.27877 13.126336,-47.369442 13.39762,46.912562 27.13675,-43.74017 -18.03183,74.27601 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.571746px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16673899;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path8844"
-       cx="103.97681"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       transform="rotate(24.114474)"
+       r="6.6145835"
        cy="68.2089"
-       r="6.6145835"
-       transform="rotate(24.114474)"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       cx="103.97681"
+       id="path8844"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16674;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16673899;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path8844-0"
-       cx="139.06967"
+       inkscape:export-ydpi="81.919998"
+       inkscape:export-xdpi="81.919998"
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       transform="rotate(24.114474)"
+       r="6.6145835"
        cy="44.892433"
-       r="6.6145835"
-       transform="rotate(24.114474)"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
-       inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       cx="139.06967"
+       id="path8844-0"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16674;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16673899;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path8844-5"
-       cx="177.30353"
-       cy="34.161419"
-       r="6.6145835"
-       transform="rotate(24.114474)"
-       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       inkscape:export-ydpi="81.919998"
        inkscape:export-xdpi="81.919998"
-       inkscape:export-ydpi="81.919998" />
+       inkscape:export-filename="/home/mark/work/tmp/hiresicon.png"
+       transform="rotate(24.114474)"
+       r="6.6145835"
+       cy="34.161419"
+       cx="177.30353"
+       id="path8844-5"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16674;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
