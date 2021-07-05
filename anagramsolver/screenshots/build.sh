@@ -12,12 +12,18 @@ sed -e "s/TEXT1/Look Up Word/g; s/TEXT2/Definitions Online/g; s/FILENAME/fdefini
 sed -e "s/TEXT1/Crossword Solver/g; s/TEXT2/Unkn.wn Lett.rs/g; s/FILENAME/gcrossword/g;" template.svg > screenshot6.svg
 
 #Generate PNGs
-inkscape --export-area-page --export-png="screenshot1.png" screenshot1.svg &>/dev/null
-inkscape --export-area-page --export-png="screenshot2.png" screenshot2.svg &>/dev/null
-inkscape --export-area-page --export-png="screenshot3.png" screenshot3.svg &>/dev/null
-inkscape --export-area-page --export-png="screenshot4.png" screenshot4.svg &>/dev/null
-inkscape --export-area-page --export-png="screenshot5.png" screenshot5.svg &>/dev/null
-inkscape --export-area-page --export-png="screenshot6.png" screenshot6.svg &>/dev/null
+echo Screenshot 1
+/Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot1.png" screenshot1.svg &>/dev/null
+echo Screenshot 2
+/Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot2.png" screenshot2.svg &>/dev/null
+echo Screenshot 3
+/Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot3.png" screenshot3.svg &>/dev/null
+echo Screenshot 4
+/Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot4.png" screenshot4.svg &>/dev/null
+echo Screenshot 5
+/Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot5.png" screenshot5.svg &>/dev/null
+echo Screenshot 6
+/Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot6.png" screenshot6.svg &>/dev/null
 
 #Remove SVG files
-rm -f screenshot*.svg
+rm screenshot*.svg
