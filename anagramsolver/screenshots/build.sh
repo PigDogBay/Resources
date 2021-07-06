@@ -10,6 +10,8 @@ sed -e "s/TEXT1/Blank Letters++/g; s/TEXT2/For Tile Games/g; s/FILENAME/cscrabb/
 sed -e "s/TEXT1/Powerful Filters/g; s/TEXT2/Refine Your Search/g; s/FILENAME/dfilter/g;" template.svg > screenshot4.svg
 sed -e "s/TEXT1/Look Up Word/g; s/TEXT2/Definitions Online/g; s/FILENAME/fdefinition/g;" template.svg > screenshot5.svg
 sed -e "s/TEXT1/Crossword Solver/g; s/TEXT2/Unkn.wn Lett.rs/g; s/FILENAME/gcrossword/g;" template.svg > screenshot6.svg
+sed -e "s/TEXT1/Dark Mode/g; s/TEXT2/Supported/g; s/FILENAME/hdarkmode/g;" template.svg > screenshot7.svg
+sed -e "s/TEXT1/100,000 Phrases/g; s/TEXT2/To Search/g; s/FILENAME/iphrases/g;" template.svg > screenshot8.svg
 
 #Generate PNGs
 echo Screenshot 1
@@ -24,6 +26,10 @@ echo Screenshot 5
 /Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot5.png" screenshot5.svg &>/dev/null
 echo Screenshot 6
 /Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot6.png" screenshot6.svg &>/dev/null
+echo Screenshot 7
+/Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot7.png" screenshot7.svg &>/dev/null
+echo Screenshot 8
+/Applications/Inkscape.app/Contents/MacOS/inkscape --export-area-page --export-filename="screenshot8.png" screenshot8.svg &>/dev/null
 
 #Remove SVG files
 rm screenshot*.svg
