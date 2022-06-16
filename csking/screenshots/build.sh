@@ -19,14 +19,14 @@ convert Nokia/pro/gdark1.png -crop 1080x1794+0+0 crop_pro_gdark.png
 convert Nokia/pro/hphrases.png -crop 1080x1794+0+0 crop_pro_hphrases.png
 
 #Create svg files
-sed -e "s/TEXT1/Feature Packed/g; s/TEXT2/Easy To Use/g; s/FILENAME/crop_std_ahome/g;" template.svg > screenshot_std1.svg
-sed -e "s/TEXT1/Feature Packed/g; s/TEXT2/Easy To Use/g; s/FILENAME/crop_pro_ahome/g;" template.svg > screenshot_pro1.svg
+sed -e "s/TEXT1/Solve Crosswords/g; s/TEXT2/Find Anagrams/g; s/FILENAME/crop_std_ahome/g;" template.svg > screenshot_std1.svg
+sed -e "s/TEXT1/Solve Crosswords/g; s/TEXT2/Find Anagrams/g; s/FILENAME/crop_pro_ahome/g;" template.svg > screenshot_pro1.svg
 sed -e "s/TEXT1/Find Words With/g; s/TEXT2/Miss?ng Lett?rs/g; s/FILENAME/crop_pro_bcrossword/g;" template.svg > screenshot_pro2.svg
-sed -e "s/TEXT1/Built-in/g; s/TEXT2/Thesaurus/g; s/FILENAME/crop_pro_cthesaurus/g;" template.svg > screenshot_pro3.svg
+sed -e "s/TEXT1/Thesaurus/g; s/TEXT2/To Solve Clues/g; s/FILENAME/crop_pro_cthesaurus/g;" template.svg > screenshot_pro3.svg
 sed -e "s/TEXT1/Powerful Filters/g; s/TEXT2/Refine Your Search/g; s/FILENAME/crop_pro_dfilter/g;" template.svg > screenshot_pro4.svg
 sed -e "s/TEXT1/Look Up Word/g; s/TEXT2/Definitions Online/g; s/FILENAME/crop_pro_edefinition/g;" template.svg > screenshot_pro5.svg
 sed -e "s/TEXT1/Anagrams and/g; s/TEXT2/Sub-anagrams/g; s/FILENAME/crop_pro_fanagrams/g;" template.svg > screenshot_pro6.svg
-sed -e "s/TEXT1/Dark Mode/g; s/TEXT2/Supported/g; s/FILENAME/crop_pro_gdark/g;" template.svg > screenshot_pro7.svg
+sed -e "s/TEXT1/Built-in/g; s/TEXT2/Help and Examples/g; s/FILENAME/crop_pro_gdark/g;" template.svg > screenshot_pro7.svg
 sed -e "s/TEXT1/100,000 Phrases/g; s/TEXT2/To Search/g; s/FILENAME/crop_pro_hphrases/g;" template.svg > screenshot_pro8.svg
 
 #Generate PNGs
