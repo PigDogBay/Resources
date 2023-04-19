@@ -39,7 +39,7 @@ sed -e "s/TEXT1/Thesaurus/g; s/TEXT2/To Solve Clues/g; s/FILENAME/cthesaurus/g;"
 sed -e "s/TEXT1/Powerful Filters/g; s/TEXT2/Refine Your Search/g; s/FILENAME/dfilter/g;" template55.svg > appStore55/screenshot4.svg
 sed -e "s/TEXT1/Built-in Dictionary/g; s/TEXT2/Definitions/g; s/FILENAME/edefinition/g;" template55.svg > appStore55/screenshot5.svg
 sed -e "s/TEXT1/Anagrams and/g; s/TEXT2/Sub-anagrams/g; s/FILENAME/fanagrams/g;" template55.svg > appStore55/screenshot6.svg
-sed -e "s/TEXT1/Built-in/g; s/TEXT2/Help and Examples/g; s/FILENAME/ghelp/g;" template55.svg > appStore55/screenshot7.svg
+sed -e "s/TEXT1/Help and/g; s/TEXT2/Examples/g; s/FILENAME/ghelp/g;" template55.svg > appStore55/screenshot7.svg
 sed -e "s/TEXT1/100,000 Phrases/g; s/TEXT2/To Search/g; s/FILENAME/hphrases/g;" template55.svg > appStore55/screenshot8.svg
 
 #Generate PNGs
@@ -68,7 +68,7 @@ sed -e "s/TEXT1/Thesaurus/g; s/TEXT2/To Solve Clues/g; s/FILENAME/cthesaurus/g;"
 sed -e "s/TEXT1/Powerful Filters/g; s/TEXT2/Refine Your Search/g; s/FILENAME/dfilter/g;" template65.svg > appStore65/screenshot4.svg
 sed -e "s/TEXT1/Built-in Dictionary/g; s/TEXT2/Definitions/g; s/FILENAME/edefinition/g;" template65.svg > appStore65/screenshot5.svg
 sed -e "s/TEXT1/Anagrams and/g; s/TEXT2/Sub-anagrams/g; s/FILENAME/fanagrams/g;" template65.svg > appStore65/screenshot6.svg
-sed -e "s/TEXT1/Built-in/g; s/TEXT2/Help and Examples/g; s/FILENAME/ghelp/g;" template65.svg > appStore65/screenshot7.svg
+sed -e "s/TEXT1/Help and/g; s/TEXT2/Examples/g; s/FILENAME/ghelp/g;" template65.svg > appStore65/screenshot7.svg
 sed -e "s/TEXT1/100,000 Phrases/g; s/TEXT2/To Search/g; s/FILENAME/hphrases/g;" template65.svg > appStore65/screenshot8.svg
 
 #Generate PNGs
@@ -97,7 +97,7 @@ sed -e "s/TEXT1/Thesaurus/g; s/TEXT2/To Solve Clues/g; s/FILENAME/cthesaurus/g;"
 sed -e "s/TEXT1/Powerful Filters/g; s/TEXT2/Refine Your Search/g; s/FILENAME/dfilter/g;" template67.svg > appStore67/screenshot4.svg
 sed -e "s/TEXT1/Built-in Dictionary/g; s/TEXT2/Definitions/g; s/FILENAME/edefinition/g;" template67.svg > appStore67/screenshot5.svg
 sed -e "s/TEXT1/Anagrams and/g; s/TEXT2/Sub-anagrams/g; s/FILENAME/fanagrams/g;" template67.svg > appStore67/screenshot6.svg
-sed -e "s/TEXT1/Built-in/g; s/TEXT2/Help and Examples/g; s/FILENAME/ghelp/g;" template67.svg > appStore67/screenshot7.svg
+sed -e "s/TEXT1/Help and/g; s/TEXT2/Examples/g; s/FILENAME/ghelp/g;" template67.svg > appStore67/screenshot7.svg
 sed -e "s/TEXT1/100,000 Phrases/g; s/TEXT2/To Search/g; s/FILENAME/hphrases/g;" template67.svg > appStore67/screenshot8.svg
 
 #Generate PNGs
@@ -126,7 +126,7 @@ sed -e "s/TEXT1/Thesaurus/g; s/TEXT2/To Solve Clues/g; s/FILENAME/cthesaurus/g;"
 sed -e "s/TEXT1/Powerful Filters/g; s/TEXT2/Refine Your Search/g; s/FILENAME/dfilter/g;" template129.svg > appStore129/screenshot4.svg
 sed -e "s/TEXT1/Built-in Dictionary/g; s/TEXT2/Definitions/g; s/FILENAME/edefinition/g;" template129.svg > appStore129/screenshot5.svg
 sed -e "s/TEXT1/Anagrams and/g; s/TEXT2/Sub-anagrams/g; s/FILENAME/fanagrams/g;" template129.svg > appStore129/screenshot6.svg
-sed -e "s/TEXT1/Built-in/g; s/TEXT2/Help and Examples/g; s/FILENAME/ghelp/g;" template129.svg > appStore129/screenshot7.svg
+sed -e "s/TEXT1/Help and/g; s/TEXT2/Examples/g; s/FILENAME/ghelp/g;" template129.svg > appStore129/screenshot7.svg
 sed -e "s/TEXT1/100,000 Phrases/g; s/TEXT2/To Search/g; s/FILENAME/hphrases/g;" template129.svg > appStore129/screenshot8.svg
 
 #Generate PNGs
