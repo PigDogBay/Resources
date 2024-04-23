@@ -18,10 +18,10 @@
 #Note that the 12.9" app store screenshots will use the full size 9.7" (iPad 6th Gen) images
 
 Text1="s/TEXT1/Perfect Aid For/g; s/TEXT2/Word Games/g; s/FILENAME/ahome/g;"
-Text2="s/TEXT1/Unscramble/g; s/TEXT2/Anagrams/g; s/FILENAME/banagram/g;"
-Text3="s/TEXT1/Look Up Word/g; s/TEXT2/Definitions Online/g; s/FILENAME/cdefinition/g;"
-Text4="s/TEXT1/Apply Filters/g; s/TEXT2/Refine Searches/g; s/FILENAME/dfilter/g;"
-Text5="s/TEXT1/Find Words With/g; s/TEXT2/Miss.ng Lett.rs/g; s/FILENAME/ecrossword/g;"
+Text2="s/TEXT1/Anagrams and/g; s/TEXT2/Sub-anagrams/g; s/FILENAME/banagram/g;"
+Text3="s/TEXT1/Built-in Dictionary/g; s/TEXT2/Definitions/g; s/FILENAME/cdefinition/g;"
+Text4="s/TEXT1/Powerful Filters/g; s/TEXT2/Refine Searches/g; s/FILENAME/dfilter/g;"
+Text5="s/TEXT1/Crossword Solver/g; s/TEXT2/Unkn.wn Lett.rs/g; s/FILENAME/ecrossword/g;"
 Text6="s/TEXT1/Blank Letters++/g; s/TEXT2/For Tile Games/g; s/FILENAME/fscrabble/g;"
 Text7="s/TEXT1/Help and/g; s/TEXT2/Examples/g; s/FILENAME/ghelp-dark/g;"
 Text8="s/TEXT1/100,000 Phrases/g; s/TEXT2/To Search/g; s/FILENAME/hphrases/g;"
