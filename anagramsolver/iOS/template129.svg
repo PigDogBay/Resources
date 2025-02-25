@@ -6,7 +6,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="template129.svg"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    inkscape:export-filename="/home/mark/apps/iPhone/AnagramSolver/screenshots/v1.07/Size12pt9/screenshot1.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -24,13 +24,13 @@
        inkscape:collect="always"
        id="linearGradient2660">
       <stop
-         style="stop-color:#800080;stop-opacity:1"
+         style="stop-color:#173165;stop-opacity:1;"
          offset="0"
-         id="stop2656" />
-      <stop
-         style="stop-color:#00006c;stop-opacity:1"
-         offset="1"
          id="stop2658" />
+      <stop
+         style="stop-color:#800080;stop-opacity:1"
+         offset="1"
+         id="stop2656" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -118,9 +118,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8360244"
-     inkscape:cx="1120.7807"
-     inkscape:cy="418.64807"
+     inkscape:zoom="0.29557926"
+     inkscape:cx="1119.835"
+     inkscape:cy="1502.1352"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"

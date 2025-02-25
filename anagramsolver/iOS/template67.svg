@@ -5,8 +5,8 @@
    viewBox="0 0 341.31249 739.77502"
    version="1.1"
    id="svg8"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
-   sodipodi:docname="template67 copy.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="template67.svg"
    inkscape:export-filename="/home/mark/apps/iPhone/AnagramSolver/screenshots/v1.07/Size6pt5/screenshot1.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -24,13 +24,13 @@
        inkscape:collect="always"
        id="linearGradient2124">
       <stop
-         style="stop-color:#800080;stop-opacity:1"
+         style="stop-color:#173165;stop-opacity:1;"
          offset="0"
-         id="stop2120" />
-      <stop
-         style="stop-color:#00006c;stop-opacity:1"
-         offset="1"
          id="stop2122" />
+      <stop
+         style="stop-color:#800080;stop-opacity:1"
+         offset="1"
+         id="stop2120" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -63,17 +63,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1361328"
-     inkscape:cx="481.4578"
-     inkscape:cy="513.58433"
+     inkscape:zoom="0.4016836"
+     inkscape:cx="480.47766"
+     inkscape:cy="1508.6501"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="2560"
-     inkscape:window-height="1440"
+     inkscape:window-height="1387"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
@@ -119,7 +119,6 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.0187px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.775467"
          id="tspan4648">TEXT2</tspan></text>
     <image
-       sodipodi:absref="iPhone15ProMax-6.7/FILENAME.png"
        xlink:href="FILENAME.png"
        y="-309.86331"
        x="28.707291"
