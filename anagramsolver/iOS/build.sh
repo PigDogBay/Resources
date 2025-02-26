@@ -17,10 +17,10 @@
 #
 #Note that the 12.9" app store screenshots will use the full size 9.7" (iPad 6th Gen) images
 
-Text1="s/TEXT1/Perfect Aid For/g; s/TEXT2/Word Games/g; s/FILENAME/crop1/g;"
-Text2="s/TEXT1/Anagrams and/g; s/TEXT2/Sub-anagrams/g; s/FILENAME/crop2/g;"
+Text1="s/TEXT1/Instant Help For/g; s/TEXT2/Word Games/g; s/FILENAME/crop1/g;"
+Text2="s/TEXT1/Anagrams and/g; s/TEXT2/Smaller Words/g; s/FILENAME/crop2/g;"
 Text3="s/TEXT1/Built-in Dictionary/g; s/TEXT2/Definitions/g; s/FILENAME/crop3/g;"
-Text4="s/TEXT1/Powerful Filters/g; s/TEXT2/Refine Searches/g; s/FILENAME/crop4/g;"
+Text4="s/TEXT1/Powerful Filters/g; s/TEXT2/Narrow Searches/g; s/FILENAME/crop4/g;"
 Text5="s/TEXT1/Crossword Solver/g; s/TEXT2/Unkn.wn Lett.rs/g; s/FILENAME/crop5/g;"
 Text6="s/TEXT1/Blank Letters++/g; s/TEXT2/For Tile Games/g; s/FILENAME/crop6/g;"
 Text7="s/TEXT1/Help and/g; s/TEXT2/Examples/g; s/FILENAME/crop7/g;"
