@@ -97,12 +97,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="39.901026"
-     inkscape:cy="283.34779"
+     inkscape:cy="284.35794"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
-     inkscape:window-width="1970"
+     inkscape:window-width="2390"
      inkscape:window-height="1186"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -145,32 +145,20 @@
      inkscape:label="Shadow">
     <path
        style="fill:url(#linearGradient4850);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 255.99999,80 123.74414,411.99414 76,434.723 157.58398,512 H 512 V 330.02539 Z"
+       d="M 255.99999,80 123.74414,411.99414 76,434.723 359.61449,671.6041 733.22341,542.15743 Z"
        id="path4839"
-       sodipodi:nodetypes="ccccccc"
+       sodipodi:nodetypes="cccccc"
        transform="scale(0.26458333)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="A">
-    <flowRoot
-       xml:space="preserve"
+    <path
+       d="m 163.98801,120.14294 v 1.00001 h -12.96013 v -1.00001 q 0.84001,-0.12 1.28001,-0.12 1.92002,-0.12 1.92002,-1.32001 0,-1.20001 -1.84001,-5.44006 h -9.0001 l -0.6,1.56002 q -1.16001,3.00003 -1.16001,3.68004 0,0.76 0.76,1.16001 0.76001,0.36 2.52003,0.48 v 1.00001 h -8.12008 v -1.00001 q 1.44001,-0.28 2.08002,-1.08001 0.68001,-0.80001 1.84002,-3.60004 l 8.88009,-21.920217 h 1.12001 l 8.92009,21.040217 q 1.48001,3.52003 2.24002,4.56004 0.80001,1.00001 1.96002,1.00001 z m -20.0002,-8.44008 h 7.80008 l -4.04004,-9.7201 z"
        id="flowRoot4809"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00040436px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4833);fill-opacity:1;stroke:none;stroke-width:0.29353362"
+       style="font-weight:bold;font-size:40.0004px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4833);stroke-width:0.293534"
        transform="matrix(3.4067649,0,0,3.4067649,-446.10178,-297.9584)"
-       inkscape:export-filename="/home/mark/tmp/test3.png"
-       inkscape:export-xdpi="96.000008"
-       inkscape:export-ydpi="96.000008"><flowRegion
-         id="flowRegion4811"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00040436px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4833);stroke-width:0.10478514;fill-opacity:1"><rect
-           id="rect4813"
-           width="276.42856"
-           height="273.57144"
-           x="136.42857"
-           y="84.14286"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00040436px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4833);stroke-width:0.29353362;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4817"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00040436px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.29353362;fill-opacity:1;fill:url(#linearGradient4833)">A</flowPara></flowRoot>
+       aria-label="A" />
   </g>
 </svg>
