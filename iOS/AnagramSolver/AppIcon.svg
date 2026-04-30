@@ -12,6 +12,8 @@
    inkscape:export-filename="/Users/markbailey/work/tmp/iASAppIcon.png"
    inkscape:export-xdpi="96.000008"
    inkscape:export-ydpi="96.000008"
+   inkscape:export-batch-name="AppIcon"
+   inkscape:export-batch-path="IconComposer"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -95,15 +97,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="39.901026"
-     inkscape:cy="282.33764"
+     inkscape:cy="283.34779"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
      inkscape:window-width="1970"
      inkscape:window-height="1186"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      showborder="false"
      showguides="true"
@@ -136,17 +138,27 @@
        y="161.53331"
        height="135.46666"
        width="135.46666" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Shadow">
     <path
        style="fill:url(#linearGradient4850);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 255.99999,80 123.74414,411.99414 76,434.723 157.58398,512 H 512 V 330.02539 Z"
-       transform="matrix(0.26458333,0,0,0.26458333,0,161.53331)"
        id="path4839"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="ccccccc"
+       transform="scale(0.26458333)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="A">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4809"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00040436px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4833);fill-opacity:1;stroke:none;stroke-width:0.29353362"
-       transform="matrix(3.4067648,0,0,3.4067648,-446.10178,-136.42508)"
+       transform="matrix(3.4067649,0,0,3.4067649,-446.10178,-297.9584)"
        inkscape:export-filename="/home/mark/tmp/test3.png"
        inkscape:export-xdpi="96.000008"
        inkscape:export-ydpi="96.000008"><flowRegion
